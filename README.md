@@ -59,4 +59,5 @@ spring.datasource.password=your_mysql_password
 
 ## Author
 Vinícius Meneses
+
 [Linkedin Profile](https://www.linkedin.com/in/vinimeneses/)
