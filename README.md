@@ -9,7 +9,9 @@ The user details are stored and retrieved from a database using Spring Data JPA.
 
 ## Layout
 ![image](https://github.com/vinimeneses/registration-login-system/assets/142733323/c62475de-4b32-4596-8f8e-a5177a8208c8)
+
 ![image](https://github.com/vinimeneses/registration-login-system/assets/142733323/1838cd4e-a188-440f-9aba-fe56cb06724e)
+
 ![image](https://github.com/vinimeneses/registration-login-system/assets/142733323/35f3495a-a6f5-4aff-a327-c1046da5f20b)
 
 
